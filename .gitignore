@@ -1,0 +1,24 @@
+# Ignore editor configuration files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Mac system files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Ignore logs and temporary files
+*.log
+tmp/
+*.tmp
+*.bak
+
+# Ignore personal environment files that might contain secrets
+.env
+.env.local
+
+# Ignore node modules if you add them later
+node_modules/
