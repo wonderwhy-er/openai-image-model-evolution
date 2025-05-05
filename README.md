@@ -1,4 +1,4 @@
-# OpenAI Image Model Evolution
+# OpenAI Image Model Evolution - Made with Claude Code for Vibe Coding comparison
 
 A simple web-based tool that demonstrates the evolution of OpenAI's image generation models by comparing DALL-E 2, DALL-E 3, and the latest models side by side using the same prompt.
 
