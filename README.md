@@ -1,3 +1,10 @@
+# Made as part of Live Coding Olympics
+[![Watch the video](https://img.youtube.com/vi/xySgNhHz4PI/0.jpg)](https://youtu.be/xySgNhHz4PI)
+
+Full results with links:
+https://docs.google.com/spreadsheets/d/1kgnVU6NZVTwqtUkrNetXTpm0oY7NsYGJn61u6-JMIoI/edit?usp=sharing
+
+
 # OpenAI Image Model Evolution - Made with Claude Code for Vibe Coding comparison
 
 A simple web-based tool that demonstrates the evolution of OpenAI's image generation models by comparing DALL-E 2, DALL-E 3, and the latest models side by side using the same prompt.
